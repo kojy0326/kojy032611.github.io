@@ -72,8 +72,8 @@
 
 <br><br>
 # [관련 이미지 & 동영상]
-<img src="./img/Main.jpg" width="640" height="480"><br>
-전체 컨셉 이미지![Main](https://github.com/kojy0326/kojy0326.github.io/assets/142155840/b041fb27-a5ed-41e7-b748-7ff6a9e51672)
+![Main](https://github.com/kojy0326/kojy0326.github.io/assets/142155840/b041fb27-a5ed-41e7-b748-7ff6a9e51672)
+전체 컨셉 이미지
 
 
 <img src="./img/simbol.jpg" width="640" height="480"><br>
