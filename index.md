@@ -72,7 +72,7 @@
 
 <br><br>
 # [관련 이미지 & 동영상]
-<img src="./img/angel.jpg" width="640" height="480"><br>
+<img src="./img/Main.jpg" width="640" height="480"><br>
 전체 컨셉 이미지
 
 <img src="./img/simbol.jpg" width="640" height="480"><br>
